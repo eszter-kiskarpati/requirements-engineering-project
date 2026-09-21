@@ -39,9 +39,18 @@
 ## Elicitation Questions
 
 1. *To Students:* "What is your main challenge when trying to find out if specific equipment is available for an upcoming project?"
-2. *To Staff: "How do you currently verify that an item has been dafely returned before making it available to the next user?"
+2. *To Staff:* "How do you currently verify that an item has been dafely returned before making it available to the next user?"
 3. *To Equipment Manager:* "How do you handle situations where two people request the same piece of equipment at the same time?"
-4. *To OT Support:* "What existing database or identity system should hold the authoritative equipment inventory list?"
+4. *To IT Support:* "What existing database or identity system should hold the authoritative equipment inventory list?"
 
 ## Interview Notes
+### Summary of Discussion with Equipment Manager
+* Current email and spreadsheet bookings frequently result in double-booking conflicts and missing gear.
+* Staff currently spend several hours per week manually checking availablility, answering contact inquiries and emailing late return reminders
+* Confirmed that equipment must only be marked as "available" in the system ince it is Physically returned and inspected.
+
 ## Candidate Requirement
+1. (Functional): The system should allow authorized users to check real time item availability and submit booking requests for specified date and time slots.
+2. (Functioanl): The system should prevent double-booking by immediately locking an item once reservation is confirmed for a specified date and time slots.
+3. (Functional): The system should display the primary staff contact name and email on every equipment detail page.
+4. (Non-Functional): Equipment booking confirmation messages should render on-screen within 5 seconds of submission.

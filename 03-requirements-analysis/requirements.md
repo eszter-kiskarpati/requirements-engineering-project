@@ -38,7 +38,28 @@
 
 ## 5. Quality Requirements
 
+* **NFR-01 (Performance):**
+    * *Quality Type:* Performance / Responsiveness
+    * *Why it matters:* Students and staff need fast feedback furing high demand booking preiods to prevent session timeouts.
+    * *How it can be checked:* Measure th esystem response time during load testing to ensure booking confirmation mesages render on screen within 5 sexonds of submission.
+
 ## 6. Project Applications
+* **Selected Project Requirement Candidate:** A mechannism to track item check-in and automated late return flags
+    * *Source:* Equipment technician feedback regarding unreturned equipment
+    * *Analysis:* Needs a clear definition of when a late penalty or alert triggers
+    * *Question for Stakeholder:* How many hours past the scheduled return time does the system officially flag an item as overdue?
+    * *Verification Method:* Simulate a missed return deadline and check if the alert log updates
+    * *Unknown:* Whether automated email warnings are sent directl to the person who borrowed equipment or if it requires manual trigger
 
 ## 7. Reflection
+
+1. **What makes a requirement diffucult to understand?**
+        
+    Ambigous adjectives ("user-friendly", "effivient", "quick", etc.) and assumptions about user workflows make requirements hard to verify
+2. **What information do we still need for the project?**
+        
+    Precise workflow permissions and notification triggers for overdue items
+3. **Who could provide that information?0**
+        
+    The equipment technician or the system administrator
 

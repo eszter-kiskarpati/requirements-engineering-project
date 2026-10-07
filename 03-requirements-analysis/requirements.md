@@ -9,6 +9,8 @@
 6. [Project Applications](#6-project-applications)
 7. [Reflection](#7-reflection)
 
+*[Back to README](/README.md)*
+
 ## 1. Information from week 2
 * **Key Stakeholders:** Students, Staff / Equipment Managers, IT / System Administrators, Management / Department Heads.
 * **Core Problem:** Manual email and spreadgeet tracking leads to double-bookings, missing gear and heavy administrative issues.

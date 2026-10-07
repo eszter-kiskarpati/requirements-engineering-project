@@ -5,7 +5,7 @@
 * [Diagram 2 - Equipment Staff and Management](#diagram-2---equipment-staff-and-management)
 * [Reflection](#reflection)
 
-[Back to README](/README.md)
+*[Back to README](/README.md)*
 
 
 ## Diagram 1 - Student and Equipment Staff

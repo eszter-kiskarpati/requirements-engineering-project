@@ -50,7 +50,7 @@
 * Confirmed that equipment must only be marked as "available" in the system ince it is Physically returned and inspected.
 
 ## 6. Candidate Requirement
-1. (Functional): The system should allow authorized users to check real time item availability and submit booking requests for specified date and time slots.
+1. (Functional): The system should allow authorised users to check real time item availability and submit booking requests for specified date and time slots.
 2. (Functioanl): The system should prevent double-booking by immediately locking an item once reservation is confirmed for a specified date and time slots.
 3. (Functional): The system should display the primary staff contact name and email on every equipment detail page.
 4. (Non-Functional): Equipment booking confirmation messages should render on-screen within 5 seconds of submission.

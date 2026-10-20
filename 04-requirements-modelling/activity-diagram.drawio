@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="yPhO8P4zDYRSj-mPgPLD">
+    <mxGraphModel dx="3835" dy="3383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-10" edge="1" parent="1" source="kRz7KArTZrD1RMcdRDWt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="kRz7KArTZrD1RMcdRDWt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Select Equipment&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="330" x="253" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-11" edge="1" parent="1" source="kRz7KArTZrD1RMcdRDWt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="kRz7KArTZrD1RMcdRDWt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Select Date&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="330" x="253" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-13" edge="1" parent="1" source="kRz7KArTZrD1RMcdRDWt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="kRz7KArTZrD1RMcdRDWt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Check Availability&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="330" x="253" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-15" edge="1" parent="1" source="kRz7KArTZrD1RMcdRDWt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="kRz7KArTZrD1RMcdRDWt-5">
+          <mxGeometry relative="1" x="-0.2518" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-17" edge="1" parent="1" source="kRz7KArTZrD1RMcdRDWt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="kRz7KArTZrD1RMcdRDWt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Is Equipment Available?&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="230" width="361" x="237.5" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-21" edge="1" parent="1" source="kRz7KArTZrD1RMcdRDWt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="kRz7KArTZrD1RMcdRDWt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Enter Booking Details&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="330" x="44" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Unknown&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="330" x="454" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-22" edge="1" parent="1" source="kRz7KArTZrD1RMcdRDWt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="kRz7KArTZrD1RMcdRDWt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Submit Bokking&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="330" x="44" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-29" edge="1" parent="1" source="kRz7KArTZrD1RMcdRDWt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="kRz7KArTZrD1RMcdRDWt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Booking Recored&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="330" x="44" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;[Available]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="136.5" x="144" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;[not Available]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="206" x="520" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-25" edge="1" parent="1" source="kRz7KArTZrD1RMcdRDWt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="kRz7KArTZrD1RMcdRDWt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;strokeWidth=2;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="378" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;strokeWidth=2;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="70" width="70" x="174" y="1485" as="geometry" />
+        </mxCell>
+        <mxCell id="kRz7KArTZrD1RMcdRDWt-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="110" width="110" x="154" y="1465" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

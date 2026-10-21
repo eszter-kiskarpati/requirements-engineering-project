@@ -13,6 +13,8 @@
 
 *[Back to README](/README.md)*
 
+![activity diagram](activity-diagram.png)
+
 ## 1. Process Modelled
 
 The process modelled is **Create Equipment Booking**. The actor identified is the Student.
